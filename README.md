@@ -6,6 +6,22 @@ Un jeu de réflexes addictif où vous devez cliquer sur des cibles le plus rapid
 ![React](https://img.shields.io/badge/React-19.1.1-61dafb?logo=react)
 ![Vite](https://img.shields.io/badge/Vite-7.1.7-646cff?logo=vite)
 
+## 🧪 Projet de test - Claude Code v2.0.0
+
+Ce projet a été créé comme test pour **Claude Code v2.0.0** avec le modèle **Claude Sonnet 4.5**.
+
+### 📊 Retour d'expérience
+
+**Objectif du test :** Comparer les performances et la compréhension entre les versions précédentes et la v2.0.0.
+
+**Observations :**
+- ⚠️ **Compréhension du langage naturel** : La version actuelle semble avoir plus de difficulté à comprendre les instructions en langage naturel mal écrit ou mal structuré par rapport aux versions précédentes
+- ⚠️ **Vitesse de réponse** : Impression que la version précédente était plus réactive et fluide
+- ✅ **Qualité du code** : Le code généré reste de bonne qualité et fonctionnel
+- ✅ **Fonctionnalités complètes** : Toutes les fonctionnalités demandées ont été implémentées correctement
+
+**Conclusion :** Bien que Claude Code v2.0.0 produise un code de qualité, il semble y avoir une régression au niveau de la compréhension du langage naturel informel et de la réactivité par rapport aux versions antérieures.
+
 ## 🎮 Fonctionnalités
 
 ### 🎯 Gameplay
